@@ -1,3 +1,5 @@
+
+# Remove the replit and replit.clear() statements if you are not planning on using this on https://repl.it
 import json,urllib.request,time,replit
 replit.clear()
 
